@@ -47,19 +47,6 @@
 .message-group .comment .message.first .markup{
     margin-top:6px!important;
 }
-.avatar-large[style*='246282547477217280'] + .comment .message {
-    background:#2B333B!important;
-    border-radius: 5px 0px 5px 5px!important;
-    text-align:right!important;
-    margin-right:0!important;
-    margin-left:20px!important;
-}
-.avatar-large[style*='246282547477217280'] + .comment .message .markup {
-    margin-right:50px!important;
-}
-.message-group .avatar-large[style*='246282547477217280'] {
-    order: 1;
-}
 .message-group .comment .message:not(.first) {
     padding: 14px!important;
     padding-left:8px!important;
