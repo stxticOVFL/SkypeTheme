@@ -1,0 +1,242 @@
+.theme-dark .friends-table, .theme-dark .messages-wrapper {
+    background-color: #36393e;
+}
+* {
+    font-family: "Segoe UI";
+}
+.theme-dark .buttonPrimaryLinkDefault-1PQflF, .theme-dark .buttonPrimaryLinkDisabled-3Ey7-S, .theme-dark .buttonPrimaryLinkSubmitting-RbBzR4, .theme-dark .buttonPrimaryLinkSubmitting-RbBzR4, .popout-menu .popout-menu-item, .name-3gtcmp, .theme-dark .textArea-20yzAH, .ui-standard-sidebar-view .sidebar-region .sidebar, .theme-dark .ui-standard-sidebar-view .content-region {
+    font-family: "Segoe UI"!important;
+}
+.message-group .comment .message:not(.first) {
+    padding: 14px!important;
+    padding-left:8px!important;
+    min-width:1px!important;
+    background:#F0F4F8;
+    border-radius: 0 5px 5px 5px;
+    margin-top:1px;
+}
+.markup {
+    color:black!important;
+    margin-top:0!important;
+    margin-left:4px!important;
+}
+.message-group .comment .message.first .markup{
+    margin-top:6px!important;
+}
+.avatar-large[style*='246282547477217280'] + .comment .message {
+    background:#C7EDFC!important;
+    border-radius: 5px 0px 5px 5px!important;
+    text-align:right!important;
+    margin-right:0!important;
+    margin-left:20px!important;
+}
+.avatar-large[style*='246282547477217280'] + .comment .message .markup {
+    margin-right:50px!important;
+}
+.message-group .avatar-large[style*='246282547477217280'] {
+    order: 1;
+}
+.message-group .comment .message:not(.first) {
+    padding: 14px!important;
+    padding-left:8px!important;
+    min-width:1px!important;
+    background:#F0F4F8;
+    border-radius: 0 5px 5px 5px;
+    margin-top:1px;
+}
+.markup {
+    color:black!important;
+    margin-top:0!important;
+    margin-left:4px!important;
+}
+.message-group .comment .message.first .markup{
+    margin-top:6px!important;
+}
+.message-group .comment .message.first {
+    padding: 14px!important;
+    padding-left:8px!important;
+    min-width:1px!important;
+    background:#F0F4F8;
+    border-radius: 0 5px 5px 5px;
+    margin-top:8px;
+}
+.theme-dark .message-group h2 span, .theme-dark .message-group h2 strong {
+    color: #748191;
+}
+.comment .message.first .markup {
+    margin-top:6px;
+}
+.theme-dark .friends-table, .theme-dark .messages-wrapper {
+    background:#FFF
+}
+.message-group {
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+.theme-dark .message-group .comment .markup code.inline {
+    color:white!important;
+}
+.theme-dark .messages-wrapper .messages .divider div {
+    background: transparent!important;
+}
+.theme-dark .messages-wrapper .messages .divider span {
+    background:white!important;
+    color:#99aab5!important;
+    bottom:6px;
+}
+.theme-dark .friends-table .messages .divider:before, .theme-dark .friends-table .messages .divider span, .theme-dark .messages-wrapper .messages .divider:before {
+    background-color:#E2EEF6!important;
+    bottom:6px;
+}
+.theme-dark .reaction, .theme-dark .reaction.reaction-me, .reaction-count {
+    background:#FDFEFE!important;
+    border-radius:10px!important;
+    color:#667486!important;
+    font-weight:normal!important;
+}
+.theme-dark .reaction.reaction-me .reaction-count {
+    font-weight:600!important;
+}
+.theme-dark .textArea-20yzAH, .channel-text-area-default, .theme-dark .chat form, .theme-dark .inner-3if5cm {
+    background:white!important;
+    color:black!important;
+}
+.theme-dark .chat form {
+    margin:0!important;
+    padding-left:20px!important;
+    padding-right:20px!important;
+    padding-bottom:20px!important;
+    height:50px;
+    border-top: 1px solid #00AFF0;
+}
+.theme-dark .inner-3if5cm {
+    bottom:10px;
+}
+.theme-dark .attachButtonForeground-3VZiXQ {
+    fill:#00AFF0;
+}
+.emoji-picker .category {
+    border-bottom:1px solid #E2EEF6;
+    margin-bottom:5px;
+}
+.sticky-header {
+    display:none;
+}
+.emoji-picker, .emoji-picker .header .search-bar, .emoji-picker .category {
+    background:white!important;
+    color:black!important;
+}
+.search-bar.search-bar-light input {
+    color:black!important;
+}
+.emoji-picker .categories .item.selected {
+    border-bottom-color:#00AFF0!important;
+}
+.theme-dark .messages-wrapper .messages .divider.divider-red>span {
+    color:#FF0000!important;
+}
+::-webkit-scrollbar-thumb, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-thumb {
+    background-color:#00AFF0!important;
+}
+::-webkit-scrollbar-track-piece {
+    border: none!important;
+    border-radius: 0!important;
+    background-color:#FFFFFF!important;
+}
+::-webkit-scrollbar-thumb {
+    border: none!important;
+    border-radius: 0!important;
+}
+.channels-wrap, .container-RYiLUQ {
+    background-color: #FFFFFF!important;
+}
+.wrapperSelectedText-31jJa8, .wrapperSelectedVoice-1Q1ocJ {
+    background-color: #00AFF0!important;
+}
+.contentSelectedText-3j5CXt {
+    background-color: transparent!important;
+}
+.theme-dark .system-message .system-message-content a, .theme-dark .system-message, .name-3gtcmp, .colorDefaultText-2v6rRX, .colorDefaultVoice-1x4dEl, .colorHoveredText-1CsxK1, .colorHoveredVoice-1P3kui, .colorLockedText-2onHWv, .colorLockedVoice-2VCSgk, .colorSelectedText-3YhFC6, .colorSelectedVoice-ieXC3Z, .colorUnreadText-1KwCnP, .colorUnreadVoice-1Ztv9I {
+    color: black!important;
+}
+.dropdown-button, .button-1aU9q1 {
+    filter:brightness(0);
+}
+.wrapperHoveredText-1PA_Uk, .wrapperHoveredVoice-3tbfNN {
+    background-color: #F2F2F2!important;
+}
+.nameUnreadText-1pxldj, .nameUnreadVoice-QK4gxH, .nameHoveredText-2FFqiz, .nameHoveredVoice-TIoHRJ, .contentHoveredText-2HYGIY, .contentHoveredVoice-3qGNKh:active, .contentSelectedVoice-gTtYM9:active {
+    background-color: transparent!important;
+    color: black!important;
+}
+.unread-23Kvxk {
+    height: 34px!important;
+    border-radius: 0!important;
+    top: 11%!important;
+    background-color: #00AFF0!important;
+}
+.container-iksrDt, .typing, .typing .text {
+    background:transparent!important;
+    color: black!important;
+}
+.typing .ellipsis {
+    display:none!important;
+}
+.typing {
+    bottom:71px!important;
+    padding-left:10px!important;
+    border-radius: 5px 5px 0 0;
+}
+.theme-dark .message-group .embed .embed-footer, .theme-dark .message-group .embed .embed-author-name, .theme-dark .message-group .embed, .message-group .embed .embed-inner, .theme-dark .message-group .embed .embed-provider {
+    border: none!important;
+    background-color: white!important;
+    color: black!important;
+}
+.private-channels .search-bar, .scroller-fzNley, .ui-video-background, .guilds-wrapper .guilds, .theme-dark .channel-members, .theme-dark .channel-members h2 {
+    background-color: #FFFFFF!important;
+    color:black;	
+}
+.channel-members .member .member-activity, .channel-members .member .member-username-inner {
+    color:black;
+}
+.private-channels .channel:hover, .theme-dark .channel-members .member:hover {
+    background: #F2F2F2!important;
+}
+.private-channels .channel.selected, .private-channel-call .button-exit.voice, .guilds-wrapper .guilds .guild.unread:before, #instant-invite-modal .copy, .theme-dark .channel-members .member.popout-open, .chat .new-messages-bar button:first-child,.chat .new-messages-bar button:last-child {
+    background: #00AFF0!important;
+}
+.chat>.title-wrap>.title {
+    overflow: visible;
+}
+.nameHovered-28u_Fz, .nameSpeaking-3ROx9q {
+    color:black!important;
+}
+.badge, .wrapper-2xO9RX {
+    background-color:#D0021B!important;
+    width:9px!important;
+    text-align:center!important;
+    border-radius: 8px 8px 8px 8px;
+    box-shadow:none!important;
+}
+.chat>.title-wrap.title-wrap-dark {
+    background-color:#FFFFFF!important;
+    color: black!important;
+}
+.search .DraftEditor-root .public-DraftEditor-content, .chat>.title-wrap.title-wrap-dark .channel-name, .chat>.title-wrap.title-wrap-dark .topic {
+    color:black!important;
+}
+.header-toolbar button span {
+    filter:brightness(0)
+}
+#instant-invite-modal .clipboard-input-inner input {
+    color:#00AFF0!important;
+}
+.private-channels .channel:hover a, .private-channels .channel.selected a {
+    background-color:transparent!important;
+}
+.private-channels .channel .channel-name {
+    color:black!important;
+}
+.private-channels .channel.selected .channel-name {
+    color:white!important;
+}
